@@ -99,7 +99,3 @@ Please note that Avalonia does not operate a bug bounty programme.
 ## Licence
 
 Avalonia is licenced under the [MIT licence](licence.md).
-
-## XPF - cross-platform WPF
-Unleash the full potential of your existing WPF apps with our cross-platform UI framework, enabling WPF apps to run on macOS and Linux without requiring expensive and risky rewrites.
-[![GH_Banner](https://github.com/user-attachments/assets/d0a3cb13-f35d-41dd-aec9-632fe848acb0)](https://avaloniaui.net/xpf?utm_source=github&utm_medium=referral&utm_content=readme_ad)
